@@ -10,5 +10,5 @@
 - [x] 07-enum
 - [x] 08-interface
 - [x] 09-typescript-with-html-css
-- [ ] 10-typescript-with-jsclasses-and-html-css
+- [x] 10-typescript-with-jsclasses-and-html-css
 - [ ] 11-generics
