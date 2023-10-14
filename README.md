@@ -11,4 +11,5 @@
 - [x] 08-interface
 - [x] 09-typescript-with-html-css
 - [x] 10-typescript-with-jsclasses-and-html-css
-- [ ] 11-generics
+- [x] 11-generics
+- [ ] 12-detection
