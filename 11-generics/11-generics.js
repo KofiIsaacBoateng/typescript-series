@@ -64,3 +64,12 @@ getUser({
     googleId: "asf282kjf",
     _id: "r2fdghnmcvs"
 });
+{ /**  Generics with classes */ }
+var GetData = /** @class */ (function () {
+    function GetData() {
+    }
+    GetData.prototype.addUser = function (user) {
+        this.users.push(user);
+    };
+    return GetData;
+}());
